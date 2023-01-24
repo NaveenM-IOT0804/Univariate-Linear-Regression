@@ -41,7 +41,7 @@ plt.show()
 ```
 ## Output
 
-![Screenshot from 2023-01-24 18-59-10](https://user-images.githubusercontent.com/117974950/214307488-9ae43c8d-4916-4fa9-b00c-442f5d0a136f.png)
+![Screenshot from 2023-01-24 18-59-10](https://user-images.githubusercontent.com/117974950/214308777-e4458d7e-3058-4f24-8ad4-1beeb1f75c38.png)
 
 
 ![Screenshot from 2023-01-23 14-11-59](https://user-images.githubusercontent.com/117974950/213997522-9a5e3ea7-4b57-4b6c-8fdd-1f596308a0dd.png)
